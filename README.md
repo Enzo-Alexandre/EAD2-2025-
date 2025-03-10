@@ -18,4 +18,4 @@ O site apresenta uma interface imersiva e intuitiva, exibindo diversas criaturas
 
 1. **Clone o repositório:**
    ```bash
-   git clone 
+   git clone https://github.com/Enzo-Alexandre/EAD2-2025-.git
